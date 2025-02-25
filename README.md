@@ -4,13 +4,13 @@ Este es un aplicativo móvil desarrollado en Flutter, diseñado para registar ub
 
 *Para clonar el proyecto*
 - Clonar el proyecto de github
-  git clone https://github.com/sayucustodio/georest.git
+  ---> git clone https://github.com/sayucustodio/georest.git
 - Ingresar a la ubicacion del proyecto
-  cd georest
+ ---> cd georest
 - en la terminal de vscode, colocar el sigte comando para instalar las dependencias
-  flutter pub get
+  --->flutter pub get
 - Luego ejecutar el proyecto en emulador o en el movil
-  flutter run
+  --->flutter run
 
 
 
