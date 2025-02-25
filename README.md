@@ -1,16 +1,16 @@
-# prueba_1
 
-A new Flutter project.
+Este es un aplicativo móvil desarrollado en Flutter, diseñado para registar ubicaciones de restaurantes cercanos al usuario. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+*Para clonar el proyecto*
+- Clonar el proyecto de github
+  git clone https://github.com/sayucustodio/georest.git
+- Ingresar a la ubicacion del proyecto
+  cd georest
+- en la terminal de vscode, colocar el sigte comando para instalar las dependencias
+  flutter pub get
+- Luego ejecutar el proyecto en emulador o en el movil
+  flutter run
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
